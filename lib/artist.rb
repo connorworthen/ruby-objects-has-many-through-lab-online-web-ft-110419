@@ -3,4 +3,4 @@ class Artist
   def initiative(name)
     @name = name
   end end
-  
+end
